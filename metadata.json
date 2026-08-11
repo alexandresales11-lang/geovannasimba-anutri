@@ -1,0 +1,6 @@
+{
+  "name": "Nutricionista Geovanna Simbaña - Quito, Ecuador",
+  "description": "Sitio web profesional de nutrición clínica, deportiva y recomposición corporal en Quito, Ecuador. Consultas presenciales y online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
